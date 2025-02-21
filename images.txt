@@ -1,3 +1,4 @@
 jc21/nginx-proxy-manager
 xiaoyaliu/alist
 chishin/nginx-proxy-manager-zh
+centos
